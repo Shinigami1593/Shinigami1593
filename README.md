@@ -125,7 +125,9 @@
 
 ---
 
-![My GitHub Game](game.gif)
+## 🎮 GitHub Space Shooter
+
+![Space Shooter Game](space-shooter.gif)
 
 ---
 
