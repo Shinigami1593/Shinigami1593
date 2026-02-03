@@ -103,6 +103,10 @@
 
 ---
 
+![My GitHub Game](game.gif)
+
+---
+
 ### 📈 Statistics
 
 <p align="center">
