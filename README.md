@@ -106,7 +106,7 @@
 ### 📈 Detailed Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shinigami1593&theme=github_dark" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shinigami1593&theme=dracula" alt="Stats Card" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shinigami1593&theme=github_dark" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shinigami1593&theme=github_dark" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shinigami1593&theme=github_dark" alt="Productive Time" />
