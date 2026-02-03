@@ -55,15 +55,24 @@ Linux | Open Source | Problem Solving
 
 ## GitHub Activity and Progress
 
-### Contribution Overview
+## GitHub Activity and Progress
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shinigami1593&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
-### Language Usage
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinigami1593&theme=github-dark&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shinigami1593&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shinigami1593&theme=darkhub&no-frame=true&row=1" />
+</p>
+
 
 ---
 
