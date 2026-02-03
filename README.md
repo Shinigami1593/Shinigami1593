@@ -127,7 +127,7 @@
 
 ## 🎮 GitHub Space Shooter
 
-![Space Shooter Game](space-shooter.gif)
+![Space Shooter Game](game.gif)
 
 ---
 
