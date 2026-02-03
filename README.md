@@ -88,15 +88,15 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shinigami1593&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shinigami1593&layout=compact&theme=drakula&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shinigami1593&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shinigami1593&show_icons=true&locale=en&theme=drakula&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shinigami1593&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Shinigami1593&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ![Line Break](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
