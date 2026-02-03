@@ -72,15 +72,15 @@ I'm on a journey to master both technical and creative problem-solving, building
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shinigami1593&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shinigami1593&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa44&currStreakLabel=70a5fd" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shinigami1593&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shinigami1593&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa44&currStreakLabel=70a5fd" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinigami1593&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shinigami1593&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffaa44" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinigami1593&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shinigami1593&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffaa44" alt="Activity Graph" />
 
 </div>
 
@@ -93,28 +93,6 @@ I'm on a journey to master both technical and creative problem-solving, building
 ---
 
 ## 🎯 Current Learning Path
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Learning))
-    Frontend
-      Advanced State Management
-      Performance Optimization
-      Modern UI/UX Patterns
-    Backend
-      API Architecture
-      Microservices
-      Database Design
-    Game Dev
-      Unreal Engine Blueprints
-      3D Asset Pipeline
-      Player Psychology
-      Interactive Systems
-```
-
-</div>
 
 <table align="center">
 <tr>
@@ -151,11 +129,9 @@ Interactive experiences
 
 <div align="center">
 
-<a href="https://github.com/Shinigami1593">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shinigami1593&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
-</a>
+### 💼 Check out my pinned repositories below! 
 
-> *Coming soon: Interactive web applications and game prototypes*
+> *Interactive web applications, game prototypes, and full-stack projects*
 
 </div>
 
@@ -165,36 +141,31 @@ Interactive experiences
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  "Building the bridge between web technologies and         │
-│   game development — creating experiences that are         │
-│   technically sound, visually stunning, and                │
-│   psychologically engaging."                               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+### *"Building the bridge between web technologies and game development"*
+
+Creating experiences that are **technically sound**, **visually stunning**, and **psychologically engaging**
 
 </div>
 
+<br>
+
 <table align="center">
 <tr>
-<td align="center">
+<td align="center" width="33%">
 
-🎯 **Technical Excellence**  
+### 🎯 Technical Excellence
 *Robust, scalable systems*
 
 </td>
-<td align="center">
+<td align="center" width="33%">
 
-🎨 **Visual Appeal**  
+### 🎨 Visual Appeal
 *Engaging, beautiful interfaces*
 
 </td>
-<td align="center">
+<td align="center" width="33%">
 
-🧠 **User Psychology**  
+### 🧠 User Psychology
 *Intuitive, immersive experiences*
 
 </td>
@@ -210,26 +181,18 @@ Interactive experiences
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shinigami1593)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-bishwokarma-72a219275)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasaileeayush17@gmail.com)
-
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Code is poetry in motion, games are dreams in pixels"
-
-<img src="https://komarev.com/ghpvc/?username=Shinigami1593&style=for-the-badge&color=blueviolet" alt="Profile views" />
-
-**Thanks for visiting!** ⭐ **Star some repositories if you find them interesting!**
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__shinigami77__/)
 
 </div>
 
 ---
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Shinigami1593/Shinigami1593/output/github-contribution-grid-snake-dark.svg)
+
+### 💡 *"Code is poetry in motion, games are dreams in pixels"*
+
+![Profile views](https://komarev.com/ghpvc/?username=Shinigami1593&style=for-the-badge&color=blueviolet)
+
+**Thanks for visiting!** ⭐ **Feel free to explore my repositories!**
 
 </div>
