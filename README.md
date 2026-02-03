@@ -1,17 +1,32 @@
-<div align="center">
+![Bottom SVG](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
 
-# 👋 Hi, I'm Ayush Bishwokarma
+<h1 align="center">Hi 👋, I'm Ayush Bishwokarma</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Web+Developer+%F0%9F%92%BB;Aspiring+Game+Developer+%F0%9F%8E%AE;Building+Interactive+Experiences+%E2%9C%A8;Focused+on+User-Centered+Design+%F0%9F%8E%AF" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Web+Developer+%F0%9F%92%BB;Aspiring+Game+Developer+%F0%9F%8E%AE;Building+Interactive+Experiences+%E2%9C%A8;Focused+on+User-Centered+Design+%F0%9F%8E%AF" alt="Typing SVG" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shinigami1593&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/Shinigami1593?style=social)](https://github.com/Shinigami1593)
-[![GitHub stars](https://img.shields.io/github/stars/Shinigami1593?style=social)](https://github.com/Shinigami1593)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shinigami1593&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/Shinigami1593">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/__shinigami77__">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/ayush-bishwokarma-72a219275">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
@@ -19,180 +34,98 @@
 
 > *University student passionate about crafting interactive digital experiences at the intersection of web and game development.*
 
-I'm on a journey to master both technical and creative problem-solving, building systems that are not just functional, but engaging and intuitive. My focus lies in understanding user behavior and designing experiences that resonate.
-
-<div align="center">
-
-### 🎯 Current Goals
-**Building Interactive Systems** • **Mastering User Psychology** • **Creating Engaging Experiences**
-
-</div>
+- 🎯 I'm currently working on **Web & Game Development Projects**
+- 🌱 I'm currently learning **Advanced State Management, Unreal Engine & Backend Architecture**
+- 💬 Ask me about **Vue.js, React, Unity, Unreal Engine**
+- 📫 How to reach me: **rasaileeayush17@gmail.com**
+- ⚡ Fun fact: **I believe code is poetry in motion, games are dreams in pixels**
 
 ---
 
-## 💻 Tech Stack
+### 🤝 Connect with me:
 
-<div align="center">
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### 🎮 Game Development
-
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-### 🔧 Languages & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
+<p align="left">
+  <a href="https://instagram.com/__shinigami77__" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/ayush-bishwokarma-72a219275" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://github.com/Shinigami1593" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/github.svg" alt="GitHub" height="40" width="40" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+### 🌐 Languages and Tools:
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shinigami1593&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shinigami1593&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa44&currStreakLabel=70a5fd" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinigami1593&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shinigami1593&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffaa44" alt="Activity Graph" />
-
-</div>
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=Shinigami1593&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)
-
-</div>
-
----
-
-## 🎯 Current Learning Path
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🎨 Frontend
-Advanced state management  
-Modern UI/UX patterns  
-Performance optimization
-
-</td>
-<td align="center" width="33%">
-
-### ⚙️ Backend
-API architecture  
-Microservices design  
-Database optimization
-
-</td>
-<td align="center" width="33%">
-
-### 🎮 Game Dev
-Unreal Engine mastery  
-Player psychology  
-Interactive experiences
-
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</p>
 
 ---
 
-## 🎨 Featured Projects
+### 📊 GitHub Stats:
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinigami1593&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-### 💼 Check out my pinned repositories below! 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shinigami1593&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
 
-> *Interactive web applications, game prototypes, and full-stack projects*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinigami1593&theme=dark" alt="GitHub Streak" />
+</p>
 
-</div>
-
----
-
-## 🌟 Vision & Goals
-
-<div align="center">
-
-### *"Building the bridge between web technologies and game development"*
-
-Creating experiences that are **technically sound**, **visually stunning**, and **psychologically engaging**
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🎯 Technical Excellence
-*Robust, scalable systems*
-
-</td>
-<td align="center" width="33%">
-
-### 🎨 Visual Appeal
-*Engaging, beautiful interfaces*
-
-</td>
-<td align="center" width="33%">
-
-### 🧠 User Psychology
-*Intuitive, immersive experiences*
-
-</td>
-</tr>
-</table>
+![Line Break](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ---
 
-## 🤝 Let's Connect
+### 📈 Statistics
 
-<div align="center">
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shinigami1593&theme=2077" alt="Stats Card" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shinigami1593&theme=2077" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shinigami1593&theme=2077" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shinigami1593&theme=2077" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shinigami1593&theme=2077" alt="Profile Details" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shinigami1593)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-bishwokarma-72a219275)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasaileeayush17@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__shinigami77__/)
-
-</div>
+![Line Break](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ---
 
-<div align="center">
+## ⚡ Activity Graph:
 
-### 💡 *"Code is poetry in motion, games are dreams in pixels"*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shinigami1593&theme=github-compact" alt="Activity Graph" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=Shinigami1593&style=for-the-badge&color=blueviolet)
+---
 
-**Thanks for visiting!** ⭐ **Feel free to explore my repositories!**
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</p>
