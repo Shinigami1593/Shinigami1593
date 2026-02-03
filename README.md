@@ -88,47 +88,39 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shinigami1593&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinigami1593&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shinigami1593&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shinigami1593&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shinigami1593&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-![Line Break](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
----
-
-### 📈 Detailed Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shinigami1593&theme=dracula" alt="Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shinigami1593&theme=dracula" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shinigami1593&theme=dracula" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shinigami1593&theme=dracula" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shinigami1593&theme=dracula" alt="Profile Details" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinigami1593&theme=dark" alt="GitHub Streak" />
 </p>
 
 ![Line Break](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ---
 
-## ⚡ Contribution Activity:
+### 📈 Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shinigami1593&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shinigami1593&theme=2077" alt="Stats Card" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shinigami1593&theme=2077" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shinigami1593&theme=2077" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shinigami1593&theme=2077" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shinigami1593&theme=2077" alt="Profile Details" />
 </p>
+
+![Line Break](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ---
 
-### 🏆 GitHub Profile Stats
+## ⚡ Activity Graph:
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shinigami1593&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Detailed Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shinigami1593&theme=github-compact" alt="Activity Graph" />
 </p>
 
 ---
