@@ -125,11 +125,7 @@
 
 ---
 
-### 🏆 GitHub Profile Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shinigami1593&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Detailed Stats"/>
-</p>
+![My GitHub Game](game.gif)
 
 ---
 
