@@ -10,16 +10,6 @@
 
 I am a university student with a primary career goal in web development and game development. My interests focus on building interactive systems, understanding user behavior, and designing engaging digital experiences. I aim to strengthen both technical and creative problem solving skills through practical projects.
 
-```bash
-ayush@linux:~$ whoami
-University Student
-
-ayush@linux:~$ echo $CAREER_GOAL
-Web Development and Game Development
-
-ayush@linux:~$ uname -a
-Linux | Open Source | Problem Solving
-
 ---
 
 ## Technical Competencies
